@@ -1,2 +1,2 @@
-# Codewars || Linkedin
-You can solve the Codewars or Linkedin problemes with my solution!
+# Codewars || Leetcode
+You can solve the Codewars or Leetcode problemes with my solution!
